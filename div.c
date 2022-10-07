@@ -33,3 +33,6 @@ void _div(stack_t **stack, unsigned int line_cnt)
 	(*stack)->n = result;
 }
 
+
+
+
