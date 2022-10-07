@@ -100,3 +100,4 @@ int is_digit(char *string);
 int isnumber(char *str);
 
 #endif /* MONTY_H */
+
